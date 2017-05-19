@@ -1,3 +1,5 @@
+/*INDEX1*/
+
 .laboratoria, .trans{
 	background-color: yellow;
 	padding-left: 5px;
@@ -12,5 +14,29 @@
 }
 
 .trans{
+	text-transform: uppercase;
+}
+
+/*INDEX2*/
+
+#laboratoria, #trans{
+	background-color: yellow;
+	padding-left: 5px;
+	padding-bottom: 20px;
+	width: 200px;
+	display: block;
+	margin: 5px;
+}
+
+#es{
+	background-color: red;
+	padding-left: 5px;
+	padding-bottom: 20px;
+	width: 200px;
+	display: block;
+	margin: 5px;
+}
+
+#trans{
 	text-transform: uppercase;
 }
