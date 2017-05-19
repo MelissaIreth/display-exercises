@@ -40,3 +40,23 @@
 #trans{
 	text-transform: uppercase;
 }
+
+/*INDEX 3*/
+
+.l, .t{
+	background-color: yellow;
+	padding: 5px;
+	display: inline-block;
+	margin: 5px;
+}
+
+.e{
+	background-color: red;
+	padding: 5px;
+	display: inline-block;
+	margin: 5px;
+}
+
+.t{
+	text-transform: uppercase;
+}
